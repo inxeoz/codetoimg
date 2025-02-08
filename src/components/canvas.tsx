@@ -375,7 +375,7 @@ export default function Canvas({
           color: theme.options.theme === "dark" ? "#FFFFFF" : "#000000",
         }}
       >
-        codetoimg.com
+        {/* codetoimg.com */}
       </p>
     </div>
   );
